@@ -8,3 +8,5 @@ How to use:
 2 - Download the transcription you want from http://www.c-oral-brasil.org/ in xml format
 3- If you're using Colab, upload brill_00 and the transcriptions you want
 4- Run the file
+
+Let me know if I can help you with something : carlosjuniorcosta1@gmail.com
