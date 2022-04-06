@@ -11,7 +11,7 @@ How to use it:
 Video tutorial: https://www.loom.com/share/15a2516728224fcc968cbeebc6093531
 
 
-1- Download the brill_00, which is a tagger that allows part of speech tagging
+1- Download the brill_00, which is a part of speech tagger
 2 - Download the transcription you want from http://www.c-oral-brasil.org/ in xml format
 3- If you're using Colab, upload brill_00 and the transcriptions you want
 4- Run the file
