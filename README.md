@@ -16,4 +16,16 @@ Video tutorial: https://www.loom.com/share/15a2516728224fcc968cbeebc6093531
 3- If you're using Colab, upload brill_00 and the transcriptions you want
 4- Run the file
 
+Obs: C-ORAL-BRASIL filenames must start with 'b'and C-ORAL-ESQ filenames must start with 'm' (lower). 
+
+
+
+#arquivos corrompidos do coral brasil já identificados (gentileza nao usá-los, ou gerar novos): bfammn10 ,
+# bfammmn20, bfammn29,
+# bfammn34, bpubmn01_2018, bfamcv21, bfamcv15, bfamdl31, 
+#bpubcv04, bpubdl07
+
+
+
+
 Let me know if I can help you with something : carlosjuniorcosta1@gmail.com
